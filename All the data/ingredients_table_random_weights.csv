@@ -1,0 +1,51 @@
+ing_id,ing_name,ing_weight,ing_meas,ing_price
+ING001,Mozzarella Cheese,1587,grams,0.1
+ING002,Tomato Sauce,1308,grams,0.2
+ING003,Pepperoni,1778,grams,0.3
+ING004,Mushrooms,1580,grams,0.4
+ING005,Onions,1438,grams,0.5
+ING006,Green Peppers,1094,grams,0.6
+ING007,Black Olives,1059,grams,0.7
+ING008,Italian Sausage,1071,grams,0.8
+ING009,Bacon,1789,grams,0.9
+ING010,Fresh Basil,1522,grams,1.0
+ING011,Garlic,1285,grams,1.1
+ING012,Parmesan Cheese,1296,grams,1.2
+ING013,Red Chili Flakes,1709,grams,1.3
+ING014,Chicken,1854,grams,1.4
+ING015,Pineapple,1346,grams,1.5
+ING016,Ham,1107,grams,1.6
+ING017,Spinach,1307,grams,1.7
+ING018,Artichokes,1378,grams,1.8
+ING019,Anchovies,1299,grams,1.9
+ING020,Ground Beef,1761,grams,2.0
+ING021,Jalapeños,1340,grams,2.1
+ING022,Provolone Cheese,1059,grams,2.2
+ING023,Goat Cheese,1967,grams,2.3
+ING024,Feta Cheese,1322,grams,2.4
+ING025,Sun-Dried Tomatoes,1687,grams,2.5
+ING026,Arugula,1367,grams,2.6
+ING027,Olive Oil,1112,grams,2.7
+ING028,Corn,1834,grams,2.8
+ING029,Eggplant,1042,grams,2.9
+ING030,Zucchini,1110,grams,3.0
+ING031,Shrimp,1214,grams,3.1
+ING032,Clams,1323,grams,3.2
+ING033,Salmon,1613,grams,3.3
+ING034,Pesto,1749,grams,3.4
+ING035,Ricotta Cheese,1501,grams,3.5
+ING036,Alfredo Sauce,1535,grams,3.6
+ING037,Barbecue Sauce,1212,grams,3.7
+ING038,Buffalo Sauce,1298,grams,3.8
+ING039,Honey,1156,grams,3.9
+ING040,Gorgonzola,1765,grams,4.0
+ING041,Broccoli,1399,grams,4.1
+ING042,Asparagus,1666,grams,4.2
+ING043,Caramelized Onions,1995,grams,4.3
+ING044,Roasted Red Peppers,1617,grams,4.4
+ING045,Chorizo,1732,grams,4.5
+ING046,Prosciutto,1635,grams,4.6
+ING047,Capers,1823,grams,4.7
+ING048,Sour Cream,1509,grams,4.8
+ING049,Avocado,1757,grams,4.9
+ING050,Truffle Oil,1610,grams,5.0

@@ -1,0 +1,21 @@
+staff_id,first_name,last_name,position,hourly_rate
+STAFF001,Charles,Garcia,Sommelier,19.89
+STAFF002,Thomas,Moore,Cleaner,10.89
+STAFF003,Richard,Davis,Prep Cook,19.94
+STAFF004,Mary,Johnson,Assistant Manager,24.9
+STAFF005,Robert,Gonzalez,Sommelier,13.31
+STAFF006,William,Brown,Cook,20.81
+STAFF007,Patricia,Garcia,Bartender,18.37
+STAFF008,Joseph,Jones,Host,12.8
+STAFF009,Linda,Miller,Line Cook,14.96
+STAFF010,Barbara,Jones,Food Runner,10.53
+STAFF011,Sarah,Garcia,Line Cook,15.31
+STAFF012,James,Smith,Cook,12.07
+STAFF013,David,Johnson,Cleaner,14.17
+STAFF014,Jessica,Martinez,Bartender,13.02
+STAFF015,John,Davis,Waiter,27.53
+STAFF016,Richard,Williams,Dishwasher,24.74
+STAFF017,Joseph,Brown,Shift Leader,14.03
+STAFF018,Mary,Martinez,Cashier,17.93
+STAFF019,John,Garcia,Chef,25.27
+STAFF020,Charles,Martinez,Food Runner,14.96

@@ -1,0 +1,36 @@
+item_id,sku,item_name,item_cat,item_size,item_price
+it_001,PIZZ-MARG-R,Margherita Pizza,Pizza,Regular,8.99
+it_002,PIZZ-PEPP-L,Pepperoni Pizza,Pizza,Large,12.99
+it_003,PIZZ-BBQCH-L,BBQ Chicken Pizza,Pizza,Large,13.99
+it_004,PIZZ-VEGG-R,Veggie Pizza,Pizza,Regular,9.99
+it_005,PIZZ-HAWA-R,Hawaiian Pizza,Pizza,Regular,10.99
+it_006,PIZZ-MEAT-L,Meat Lovers Pizza,Pizza,Large,14.99
+it_007,PIZZ-CHEE-R,Cheese Pizza,Pizza,Regular,7.99
+it_008,PIZZ-BUFF-L,Buffalo Chicken Pizza,Pizza,Large,12.99
+it_009,PIZZ-SUPR-L,Supreme Pizza,Pizza,Large,13.99
+it_010,PIZZ-MUSH-R,Mushroom Pizza,Pizza,Regular,8.99
+it_011,PIZZ-WHIT-R,White Pizza,Pizza,Regular,9.49
+it_012,PIZZ-SPIN-L,Spinach and Feta Pizza,Pizza,Large,14.49
+it_013,PIZZ-4CH-L,Four Cheese Pizza,Pizza,Large,13.49
+it_014,PIZZ-PEST-R,Pesto Pizza,Pizza,Regular,11.49
+it_015,PIZZ-BBQPP-L,BBQ Pulled Pork Pizza,Pizza,Large,15.99
+it_016,BEVG-COCA-500,Coca Cola,Beverage,500ml,1.5
+it_017,BEVG-PEPS-500,Pepsi,Beverage,500ml,1.5
+it_018,BEVG-SPRT-500,Sprite,Beverage,500ml,1.5
+it_019,BEVG-FANT-500,Fanta,Beverage,500ml,1.5
+it_020,BEVG-ICTE-500,Iced Tea,Beverage,500ml,2.0
+it_021,BEVG-LEMO-500,Lemonade,Beverage,500ml,2.0
+it_022,BEVG-OJCE-500,Orange Juice,Beverage,500ml,2.5
+it_023,BEVG-AJCE-500,Apple Juice,Beverage,500ml,2.5
+it_024,BEVG-WATR-500,Bottled Water,Beverage,500ml,1.0
+it_025,BEVG-COFF-500,Coffee,Beverage,500ml,3.0
+it_026,BEVG-ESPR-500,Espresso,Beverage,Small,3.0
+it_027,BEVG-LATT-500,Latte,Beverage,Medium,4.0
+it_028,BEVG-CAPP-500,Cappuccino,Beverage,Large,4.0
+it_029,BEVG-MOCH-500,Mocha,Beverage,Medium,4.5
+it_030,BEVG-HOTC-500,Hot Chocolate,Beverage,Large,4.5
+it_031,FOOD-CBUR-R,Cheeseburger,Other Food,Regular,5.99
+it_032,FOOD-CSND-R,Chicken Sandwich,Other Food,Regular,6.49
+it_033,FOOD-FRIE-R,Fries,Other Food,Regular,2.99
+it_034,FOOD-ONRN-R,Onion Rings,Other Food,Regular,3.99
+it_035,FOOD-CNGT-R,Chicken Nuggets,Other Food,Regular,4.99
